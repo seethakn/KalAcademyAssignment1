@@ -6,4 +6,4 @@ Input:   arr[] = {1, 1, 3, 3, 4, 5, 5, 7, 7, 8, 8}
 
 Output:  4      
 
-Solution : {% gist 93639a66c05365c80632e5d5e023aeb3 %}
+Solution : <script src="https://gist.github.com/seethakn/93639a66c05365c80632e5d5e023aeb3.js"></script>
