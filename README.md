@@ -8,6 +8,7 @@ Output:  4
 
 # Solution : 
 https://gist.github.com/seethakn/f17aacc192465af38ef22d4c2b1ab7ea
+
 ---------------------------------
 
 # 2. 
@@ -15,6 +16,7 @@ A magic index in an array A[0…n-1] is defined to be an index such that A[i] = 
 
 # Solution :
 https://gist.github.com/seethakn/9a5fcfc7c3855d093b9841cab5969aad
+
 ---------------------------------
 
 # 3. 
@@ -22,6 +24,7 @@ Given a sorted array of n integers that has been rotated an unknown number of ti
 
 # Solution :
 https://gist.github.com/seethakn/4eee1b9bb4e2f7f511d40214a6cd33fc
+
 ---------------------------------
 
 # 4. 
@@ -29,6 +32,7 @@ Given an array that contains numbers from 1 to n-1 and exactly 1 duplicate, find
 
 # Solution :
 https://gist.github.com/seethakn/3df33c534a4e4363af4bd123221855af
+
 ---------------------------------
 
 # 5. 
@@ -38,6 +42,7 @@ Search for 3 and Output: Found at index 7
 
 # Solution :
 https://gist.github.com/seethakn/357de8c0eb17570c2c4de4e986efd6b3
+
 ---------------------------------
 
 # 6. 
