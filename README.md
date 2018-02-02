@@ -8,4 +8,4 @@ Output:  4
 
 Solution : 
 
-<script src="https://gist.github.com/seethakn/93639a66c05365c80632e5d5e023aeb3.js"></script>
+https://gist.github.com/seethakn/93639a66c05365c80632e5d5e023aeb3
